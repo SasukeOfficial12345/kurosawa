@@ -122,13 +122,13 @@ print  """
 \033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mKurosawaDiaresco\033[1;95m♡╰──────────•◈•──────────╯♡"""
 jalan('              \033[1;96m....................Kurosawa.....................:')
 jalan("\033[1;93m   
+jalan('\033[1;93m  kurosawa
 jalan('\033[1;93m  
-jalan('\033[1;93m  
-jalan("\033[1;93m   
+jalan("\033[1;93m   kurosawa
 jalan("\033[1;93m   
 print "\033[1;93m♡────────────♡\033[1;96mLogin KurosawaHacker\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "Kurosawar"
+CorrectUsername = "Kurosawa"
 CorrectPassword = "kurosawa123"
 
 loop = 'true'
